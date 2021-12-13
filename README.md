@@ -1,2 +1,2 @@
 # B00136730_StarShipsAlpha
- Alpha game
+ Full game not the Alpha game
